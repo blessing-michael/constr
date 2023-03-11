@@ -289,7 +289,7 @@ function displayError() {
 That's all, our webpage should now look like this.
 
 
-<video src="screen-capture (2).webm" autoplay loop controls></video>
+<video src="https://youtu.be/xpfeNKEW6X8" autoplay loop controls></video>
 
 Repeat the same process for the country's input field
 
